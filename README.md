@@ -1,2 +1,5 @@
 # devops-begineer
-respository for devops beginers
+repository for DevOps beginners
+
+
+I will learn DevOps in 3 months
